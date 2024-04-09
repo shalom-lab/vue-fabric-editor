@@ -53,14 +53,14 @@
 <script setup name="CanvasSize">
 import { Modal } from 'view-ui-plus';
 import useSelect from '@/hooks/select';
-import { useI18n } from 'vue-i18n';
+//import { useI18n } from 'vue-i18n';
 
 const { mixinState, canvasEditor } = useSelect();
-const { t } = useI18n();
+//const { t } = useI18n();
 
 const DefaultSize = {
   width: 900,
-  height: 1200,
+  height: 383,
 };
 
 const showModal = ref(false);
@@ -72,29 +72,34 @@ let width = ref(DefaultSize.width);
 let height = ref(DefaultSize.height);
 let presetSize = reactive([
   {
-    label: t('red_book_vertical'),
+    label: '公众号封面',
     width: 900,
-    height: 1200,
+    height: 383,
   },
   {
-    label: t('red_book_horizontal'),
-    width: 1200,
-    height: 900,
+    label: '公众号小图',
+    width: 200,
+    height: 200,
   },
   {
-    label: t('phone_wallpaper'),
-    width: 1080,
-    height: 1920,
+    label: '公众号首图',
+    width: 900,
+    height: 500,
   },
   {
-    label: 'kindle',
-    width: 1200,
-    height: 860,
+    label: '公众号超链接图片',
+    width: 600,
+    height: 200,
   },
   {
-    label: 'kindle-resize',
-    width: 860,
-    height: 1200,
+    label: '小红书（竖版）',
+    width: 1242,
+    height: 1660,
+  },
+  {
+    label: 'B站视频封面',
+    width: 1146,
+    height: 717,
   },
 ]);
 
