@@ -149,6 +149,13 @@ pnpm dev
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/shalom-lab">
+            <img src="https://avatars.githubusercontent.com/u/49271035?v=4" width="80;" alt="shalom-lab"/>
+            <br />
+            <sub><b>shalom-lab</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/nihaojob">
             <img src="https://avatars.githubusercontent.com/u/13534626?v=4" width="80;" alt="nihaojob"/>
             <br />
@@ -182,15 +189,15 @@ pnpm dev
             <br />
             <sub><b>ylx252</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/makeng">
             <img src="https://avatars.githubusercontent.com/u/23654388?v=4" width="80;" alt="makeng"/>
             <br />
             <sub><b>makeng</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/z09176141">
             <img src="https://avatars.githubusercontent.com/u/49260613?v=4" width="80;" alt="z09176141"/>
@@ -225,15 +232,15 @@ pnpm dev
             <br />
             <sub><b>JiangShuQ</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hudenghui">
             <img src="https://avatars.githubusercontent.com/u/17875293?v=4" width="80;" alt="hudenghui"/>
             <br />
             <sub><b>hudenghui</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ddshiyu">
             <img src="https://avatars.githubusercontent.com/u/37503208?v=4" width="80;" alt="ddshiyu"/>
@@ -268,15 +275,15 @@ pnpm dev
             <br />
             <sub><b>wozhi-cl</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/vvbear">
             <img src="https://avatars.githubusercontent.com/u/32010827?v=4" width="80;" alt="vvbear"/>
             <br />
             <sub><b>vvbear</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/slarkerino">
             <img src="https://avatars.githubusercontent.com/u/7014849?v=4" width="80;" alt="slarkerino"/>
@@ -311,15 +318,15 @@ pnpm dev
             <br />
             <sub><b>nanfb</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/dulltackle">
             <img src="https://avatars.githubusercontent.com/u/45963660?v=4" width="80;" alt="dulltackle"/>
             <br />
             <sub><b>dulltackle</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Bamzc">
             <img src="https://avatars.githubusercontent.com/u/10151046?v=4" width="80;" alt="Bamzc"/>
